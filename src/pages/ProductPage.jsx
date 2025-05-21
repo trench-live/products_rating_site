@@ -36,7 +36,7 @@ const ProductPage = () => {
         };
 
         fetchProduct();
-    }, [id]);
+    }, [id, currentRating]);
 
     const handleRatingChange = (newRating) => {
         setCurrentRating(newRating);
