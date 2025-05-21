@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/products_rating_site/static/css/main.2539ffa4.css",
+    "main.js": "/products_rating_site/static/js/main.8184d40a.js",
+    "index.html": "/products_rating_site/index.html",
+    "main.2539ffa4.css.map": "/products_rating_site/static/css/main.2539ffa4.css.map",
+    "main.8184d40a.js.map": "/products_rating_site/static/js/main.8184d40a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2539ffa4.css",
+    "static/js/main.8184d40a.js"
+  ]
+}
